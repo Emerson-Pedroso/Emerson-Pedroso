@@ -1,6 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emerson;Tenho+34+Anos+de+Idade;Moro+Em+Curitiba,+PR;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
+* 🌍  I'm based in Rio de Janeiro, Brazil
+* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
+* 🧠  I'm learning Advanced Javascript, Rust and C programming language
+* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
+* ⚡  I love sports and my favorite is Crossfit
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emerson-Pedroso&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pedroso github stats" /> 
