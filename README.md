@@ -46,6 +46,8 @@
 <img align = "center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Mysql-054f77?style=for-the-badge&logo=Mysql&logoColor=white">
+  
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Sql-054f77?style=for-the-badge&logo=Sql&logoColor=white">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>&nbsp;
