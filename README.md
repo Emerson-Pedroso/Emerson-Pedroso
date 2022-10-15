@@ -10,8 +10,8 @@ Adoro codificar e descobrir como resolver problemas profundos usando tecnologia 
 Também sou estudante na UniDomBosco, Análise e desenvolvimento de sistemas.
 
 * 🌍  Sou de, Curitiba-Pr, Brasil
-* ✉️  Você pode entrar em contato comigo em [emersonpedroso22@gmail.com]
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
+* ✉️  Você pode entrar em contato comigo em emersonpedroso22@gmail.com
+* 🚀  Atualmente estou trabalhando na Ferramentas Gerais https://www.fg.com.br/
 * 🧠  I'm learning Advanced Javascript, Rust and C programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Crossfit
