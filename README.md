@@ -16,8 +16,6 @@ Também sou estudante na UniDomBosco, Análise e desenvolvimento de sistemas.
 * 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 * ⚡  Eu amo esportes e meu favorito é Programar haha
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
