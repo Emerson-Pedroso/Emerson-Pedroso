@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emerson;Tenho+34+Anos+de+Idade;Moro+Em+Curitiba,+PR;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunaGuimaraes2&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Guimarães github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emerson-Pedroso&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pedroso github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGuimaraes2&layout=compact&hide_border=true&title_color=00cc86&text_color=00cc86&bg_color=0d1117" />
 </div>&nbsp;
 
