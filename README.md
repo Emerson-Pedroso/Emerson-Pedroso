@@ -1,16 +1,16 @@
 
-Hi 👋 My name is Guilhermo
+Hi 👋 My name is Emerson
 ==========================
 
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+Também sou estudante na UniDomBosco, Análise e desenvolvimento de sistemas.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
+* 🌍  Sou de, Curitiba-Pr, Brasil
+* ✉️  Você pode entrar em contato comigo em [emersonpedroso22@gmail.com]
 * 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
 * 🧠  I'm learning Advanced Javascript, Rust and C programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
