@@ -60,7 +60,7 @@
 -------------------------------
 
 <div style="display: inline-block"; align="center">
-<h2>Redes Sociais:</h2>
+<h2>Fale comigo:</h2>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-pedroso-6a4922148/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541998923342)
