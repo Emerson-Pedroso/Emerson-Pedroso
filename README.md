@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-## Oiii eu sou o Emerson, !
+## Olá eu sou o Emerson, Full Stack Software Developer!
 
 * 🌍  Moro em Curitiba-Pr, Brasil
 * ✉️  Você pode entrar em contato comigo em [emersonpedroso22@gmail.com](mailto:emersonpedroso22@gmail.com)
