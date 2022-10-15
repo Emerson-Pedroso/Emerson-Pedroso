@@ -1,46 +1,72 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-Hi 👋 My name is Emerson
-==========================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cc86&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Emerson+Pedroso;Tenho+34+Anos+de+Idade;Eu+Moro+Em+Curitiba,+PR;Bem-vindo+Ao+Meu+Repositório!+:%29)](https://git.io/typing-svg)&nbsp;
 
-Full Stack Software Developer
------------------------------
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BrunaGuimaraes2&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Bruna Guimarães github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGuimaraes2&layout=compact&hide_border=true&title_color=00cc86&text_color=00cc86&bg_color=0d1117" />
+</div>&nbsp;
 
-Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é o desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
-
-Também sou estudante na UniDomBosco, Análise e desenvolvimento de sistemas.
-
-* 🌍  Sou de, Curitiba-Pr, Brasil
-* ✉️  Você pode entrar em contato comigo em emersonpedroso22@gmail.com
-* 🚀  Atualmente estou trabalhando na Ferramentas Gerais https://www.fg.com.br/
-* 🧠  Estou aprendendo, HTML, CSS, JavaScript, Java, Mysql, Sql, entre outros.
-* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
-* ⚡  Eu amo esportes e meu favorito é Programar haha
+![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunaGuimaraes2&theme=gotham&hide_border=true&area=true)&nbsp;
+================
+### Habilidades:
+<div style="display: inline-block">
 
 
-### Skills
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  
+  ### Ferramentas:
+<div style="display: inline-block">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+</div>&nbsp;
+
+  
+  ### Estudando:
+<div style="display: inline-block">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img align = "center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>&nbsp;
+
+-------------------------------
+
+<div style="display: inline-block"; align="center">
+<h2>Redes Sociais:</h2>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunaguimaraescunha00/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541988813585)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruh956692@gmail.com)
+
+<h2></h2>
+
+</div>&nbsp;
+  
+  -------------------------------
 
 
-### Socials
+<div align="center">
+<br><p align="centre"><b>Contador de Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrunaGuimaraes2}/count.svg" /></p> 
+<br></div>
 
-<p align="left"> <a href="https://www.linkedin.com/in/emerson-pedroso-6a4922148/"target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=emerson-pedroso&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true%22%20alt=%22peguimasid%27s%20GitHub%20stats" /></a>
-
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emerson-pedroso&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/peguimasid"><img src="https://activity-graph.herokuapp.com/graph?username=emerson-pedroso&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph" /></a>
-
-<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=emerson-pedroso&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
