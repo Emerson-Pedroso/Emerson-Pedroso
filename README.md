@@ -12,9 +12,9 @@ Também sou estudante na UniDomBosco, Análise e desenvolvimento de sistemas.
 * 🌍  Sou de, Curitiba-Pr, Brasil
 * ✉️  Você pode entrar em contato comigo em emersonpedroso22@gmail.com
 * 🚀  Atualmente estou trabalhando na Ferramentas Gerais https://www.fg.com.br/
-* 🧠  I'm learning Advanced Javascript, Rust and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🧠  Estou aprendendo, HTML, CSS, JavaScript, Java, Mysql, Sql, entre outros.
+* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* ⚡  Eu amo esportes e meu favorito é Programar haha
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
