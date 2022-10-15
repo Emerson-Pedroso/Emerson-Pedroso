@@ -51,9 +51,9 @@
 <div style="display: inline-block"; align="center">
 <h2>Redes Sociais:</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunaguimaraescunha00/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541988813585)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruh956692@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-38245B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emerson-pedroso-6a4922148/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541998923342)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emersonpedroao22@gmail.com)
 
 <h2></h2>
 
@@ -64,7 +64,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrunaGuimaraes2}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Emerson-Pedroso}/count.svg" /></p> 
 <br></div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
