@@ -4,10 +4,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emerson-Pedroso&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pedroso github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaGuimaraes2&layout=compact&hide_border=true&title_color=00cc86&text_color=00cc86&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson-Pedroso&layout=compact&hide_border=true&title_color=00cc86&text_color=00cc86&bg_color=0d1117" />
 </div>&nbsp;
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=BrunaGuimaraes2&theme=gotham&hide_border=true&area=true)&nbsp;
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Emerson-Pedroso&theme=gotham&hide_border=true&area=true)&nbsp;
 ================
 ### Habilidades:
 <div style="display: inline-block">
