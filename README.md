@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=00cc86&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp;
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Rust and C programming language
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 🌍  Moro em Curitiba-Pr, Brasil
+* ✉️  Você pode entrar em contato comigo em [emersonpedroso22@gmail.com](mailto:emersonpedroso22@gmail.com)
+* 🚀  Atualmente trabalho na [Ferramentas Gerais](https://www.fg.com.br/)
+* 🧠  Estou aprendendo JavaScript, HTML, CSS, Java, Mysql, Sql, entre outros.
+* 🤝  Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
+* ⚡  Eu amo esportes e meu favorito é Programar haha.
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Emerson-Pedroso&show_icons=true&count_private=true&hide_border=true&title_color=00cc86&icon_color=00cc86&text_color=c9d1d9&bg_color=0d1117" alt="Emerson Pedroso github stats" /> 
